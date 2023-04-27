@@ -1,0 +1,12 @@
+.subtitle-wrap {
+    display: flex;
+}
+.upload-file {
+    margin-top: 20px;
+    width: 800px;
+}
+.subtitle-wrap video{
+    margin-top: 200px;
+    width: 800px;
+    height: 600px;
+}

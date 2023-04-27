@@ -1,0 +1,12 @@
+.upload-wrap{
+    display: flex;
+    flex-direction: row;
+}
+.upload-wrap .player-wrap{
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.uploader {
+    min-width: 800px;
+    margin-top: 60px;
+}

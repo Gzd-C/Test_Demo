@@ -1,0 +1,19 @@
+.canvas-wrap {
+    width: 800px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.canvas-wrap canvas{
+    width: 300;
+    height: 150px;
+}
+.canvas-wrap .items{
+    width: 400px;
+}
+.canvas-video-wrap {
+    display: flex;
+}
+.img-preview {
+    width: 300px;
+}
